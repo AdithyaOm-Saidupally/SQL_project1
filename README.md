@@ -6,8 +6,12 @@
 **Database and GUI**: postgres_sql, DeBrewers ;
 **Data from**: kaggle ;
 **Database**: `SQL_project1`;
+<img width="268" height="184" alt="Screenshot 2026-01-06 at 23 13 07" src="https://github.com/user-attachments/assets/970848eb-ccc6-4b9d-84f0-3e6c81cd3c3c" />
+
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+<img width="1414" height="865" alt="Screenshot 2026-01-06 at 23 12 35" src="https://github.com/user-attachments/assets/d675c663-7e29-4a22-89d0-6c43238a7d95" />
+
 
 ## Objectives
 
