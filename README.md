@@ -1,4 +1,4 @@
-# answering retail sales data questions using SQL
+# Answering retail sales data questions using SQL
 
 ## Project Overview
 
